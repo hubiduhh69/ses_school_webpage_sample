@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Meddon&family=Mrs+Saint+Delafield&display=swap');
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f3fa;
+}
+
+.header {
+  color:black;
+  font-size:30px;
+  text-align: center;
+} 
+
+.sub-header{
+  font-size:20px;
+  font-family:"Meddon", cursive ;
+  font-weight: 400;
+  font-style:bold;
+}
+.container{
+  margin-right:30px;
+}
+
+.main-section {
+  padding: 20px 0;
+  text-align: center;
+}
+
+.heading {
+  color: #333;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.event {
+  margin-bottom: 20px;
+}
+
+.event img {
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+}
+
+footer {
+  text-align: center;
+  padding: 20px 0;
+  margin-top: 20px;
+}
+
+footer h3, footer h4 {
+  margin: 5px 0;
+}
+
+.gallery img {
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+  margin: 10px;
+}
+
+.icon{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
